@@ -1,0 +1,3 @@
+Programa: helloworld.sh
+Permisos: chmod +x helloworld.sh
+Execució: ./helloworld.sh
